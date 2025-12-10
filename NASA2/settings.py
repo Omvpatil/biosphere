@@ -33,6 +33,7 @@ INSTALLED_APPS = [
     "biosphere",
     "corsheaders",
     "rest_framework",
+    "django_pg_jsonschema",
 ]
 
 # NOTE: Neo4j Configuration (independent from DATABASES)
@@ -151,6 +152,8 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.2/howto/static-files/
 STATIC_URL = "static/"
+
+DJANGO_PG_JSONSCHEMA = {"PG_COMMIT_JSONSCHEMA": True}
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
