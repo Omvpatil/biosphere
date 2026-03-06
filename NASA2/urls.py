@@ -23,5 +23,4 @@ urlpatterns = [
     path("search/", include("search_database.urls")),
     path("graph/", include("graph_database.urls")),
     path("biosphere/", include("biosphere.urls")),
-    # path("",
 ]

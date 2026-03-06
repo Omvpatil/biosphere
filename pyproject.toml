@@ -5,10 +5,14 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "django-stubs>=5.2.9",
     "google-ai-haystack>=5.4.0",
     "haystack>=0.42",
     "neo4j>=5.28.2",
     "neo4j-graphrag>=1.10.1",
+    "pgvector>=0.4.2",
+    "polars>=1.38.1",
     "psycopg2-binary>=2.9.11",
     "sentence-transformers>=5.1.2",
+    "uuid7-standard>=1.1.0",
 ]
