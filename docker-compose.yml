@@ -1,0 +1,105 @@
+services:
+  db:
+    image: pgvector/pgvector:pg15
+    container_name: biosphere_db
+    environment:
+      POSTGRES_DB: biosphere
+      POSTGRES_USER: users
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5435:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U users -d biosphere"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  neo4j:
+    image: neo4j:5-community
+    container_name: biosphere_neo4j
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    environment:
+      NEO4J_AUTH: neo4j/passw0rd
+    volumes:
+      - neo4j_data:/data
+      - neo4j_logs:/logs
+    healthcheck:
+      test: ["CMD-SHELL", "cypher-shell -u neo4j -p passw0rd 'RETURN 1'"]
+      interval: 10s
+      timeout: 10s
+      retries: 5
+
+  minio:
+    image: minio/minio:latest
+    container_name: biosphere_minio
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    environment:
+      MINIO_ROOT_USER: biosphere_admin
+      MINIO_ROOT_PASSWORD: biosphere_super_secret_password
+    command: server /data --console-address ":9001"
+    volumes:
+      - minio_data:/data
+
+  redis:
+    image: redis:alpine
+    container_name: redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - "redis_data:/data"
+
+  app:
+    build: .
+    container_name: biosphere_app
+    command: >
+      bash -c "sleep 5 &&
+               python manage.py migrate &&
+               neomodel_install_labels graph_database/models.py --db bolt://neo4j:passw0rd@neo4j:7687 &&
+               python manage.py runserver 0.0.0.0:8000"
+    volumes:
+      - .:/usr/app/
+      - hf_cache:/usr/app/.cache/huggingface
+    ports:
+      - "8000:8000"
+    environment:
+      - POSTGRES_DB=biosphere
+      - POSTGRES_USER=users
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_HOST=db
+      - POSTGRES_PORT=5432
+      - NEOMODEL_NEO4J_BOLT_URL=bolt://neo4j:passw0rd@neo4j:7687
+      - REDIS_URL=redis://redis:6379/1
+      - AWS_S3_ENDPOINT_URL=http://minio:9000
+      - AWS_ACCESS_KEY_ID=biosphere_admin
+      - AWS_SECRET_ACCESS_KEY=biosphere_super_secret_password
+      - AWS_STORAGE_BUCKET_NAME=biosphere-media
+      - DEBUG=True
+      - SECRET_KEY=django-secure-8x)2$5(i@sh-4(^k0v7d*t4!7e4(!sf%+lv2-c-2vzd0)k5@jd
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+      - HF_HOME=/usr/app/.cache/huggingface
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    depends_on:
+      db:
+        condition: service_healthy
+      neo4j:
+        condition: service_healthy
+      redis:
+        condition: service_started
+      minio:
+        condition: service_started
+
+volumes:
+  postgres_data:
+  neo4j_data:
+  neo4j_logs:
+  minio_data:
+  redis_data:
+  hf_cache:

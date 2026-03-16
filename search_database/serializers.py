@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import Citations, ImageNodes, ResearchPaper
+from .models import Citations, DocumentChunks, ImageNodes, ResearchPaper
 
 
 class ImageNodeSerializer(serializers.ModelSerializer):
@@ -33,3 +33,39 @@ class ResearchPaperSerializer(serializers.ModelSerializer):
 
 class CsvDataSerializer(serializers.Serializer):
     file = serializers.FileField()
+
+
+class UserQuerySerializer(serializers.Serializer):
+    user_query = serializers.CharField()
+
+
+class DocumentChunksSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = DocumentChunks
+        # fields = "__all__"
+        exclude = ("embedding",)
+
+
+class ChunkSerializer(serializers.Serializer):
+    section = serializers.CharField(allow_blank=True)
+    text = serializers.CharField()
+
+
+class ImageContextSerializer(serializers.Serializer):
+    description = serializers.CharField(allow_blank=True)
+    signed_url = serializers.CharField()
+    original_url = serializers.URLField()
+
+
+class PaperContextSerializer(serializers.Serializer):
+    paper_id = serializers.IntegerField()
+    title = serializers.CharField()
+    abstract = serializers.CharField(allow_blank=True)
+    images = ImageContextSerializer(many=True)
+    relevant_chunks = ChunkSerializer(many=True)
+
+
+class FinalOutputSerializer(serializers.Serializer):
+    papers = PaperContextSerializer(many=True)
+    graph_context = serializers.CharField(allow_blank=True)
+

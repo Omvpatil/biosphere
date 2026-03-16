@@ -1,0 +1,850 @@
+WARNING 2026-03-13 19:05:18,860 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b45fee-1d15a27717ee3b723561b7fe;333fa707-5dbb-4338-a6ca-132c91d7ca21)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-13 19:05:19,113 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b45fef-64c5532a3341978b31d105e9;78df0fe8-b0d7-41e7-b29f-d1e166d5e310)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-13 19:05:19,350 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b45fef-303e8144592fce974ba30459;ae69289f-bb36-4899-a4fa-78079e1f5d09)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-13 19:05:37,993 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b46001-58e636dd0c89fe85022103c2;1df6a5f3-371c-411f-8a4a-263b8ef2e1ea)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-13 19:05:38,390 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b46002-6b3f67c85641c08a445033ce;34b06fbe-bc60-4627-8f53-07338deea834)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-13 19:05:38,828 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b46002-1d87a8724cbefe35581207fe;b36ed31a-f50b-4c98-a3db-5a6caaaaed36)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-13 19:05:52,804 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b46010-31df367f2f35c971609fc236;72da8d8d-84f5-4ba9-ac34-a1c918994e3d)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-13 19:05:53,038 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b46010-576f0c1c58acd96725ade30d;70fb9644-7f18-4242-b562-512fa75a7e0e)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-13 19:05:53,282 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b46011-6273145e076c4b876cf78479;df8af61f-06ff-4b5e-9e30-e2316a36e231)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-13 19:06:04,183 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b4601c-49782ad75eaf8267415145ef;54ef197b-d764-4fcf-9e1b-4cf0b12c4f34)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-13 19:06:04,454 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b4601c-57557aaf0138e60349a2e290;2a082cff-8b5b-4aa1-b9ae-12a0a1c84118)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-13 19:06:04,702 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b4601c-691f40ca3603e2a915e46f58;0b149d20-8f51-4e63-b794-b8605d62e9aa)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-13 19:20:38,152 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b46386-64cf613056bf8b28566e70be;c1b1391f-13f9-4f4d-b5fd-5d780a371f2a)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-13 19:20:38,390 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b46386-20f6ddcf0d8dcd534dd5a6c9;609cafa1-465c-4cc9-9f5a-3d913a97a2d2)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-13 19:20:38,620 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b46386-04dfb77c27464bb626050492;74621b3e-21cf-4d4e-8ac5-f811e42e442d)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-13 19:21:11,503 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b463a7-2a38889e14e8f3624cb281fe;2fb59892-345e-423e-a22a-3952d2143890)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-13 19:21:11,752 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b463a7-7f24d147697198482bdb4e65;1923b3c1-685e-46aa-b87e-6c7793f74340)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-13 19:21:11,989 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b463a7-3dd306074d03c66414948eeb;2a10960a-b23b-472d-89af-14b575d358f4)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-13 19:36:55,566 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b46757-4b199b27786039d34b7524e5;4f4bd1d9-258a-4536-b5fe-d07ad8b3635e)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-13 19:36:55,802 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b46757-0afbb87b716e70074cccf3ac;732abf2f-e00f-4e79-83ba-02bf1774e0bf)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-13 19:36:56,044 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b46757-2e4fbbdd67c1069d252aea13;e9899dd4-2a1d-4006-8e7f-1c6bf753ea5f)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-13 19:39:01,091 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b467d5-563053811d8dc4067795859a;8a139c00-3ea4-4182-924c-d66293b2f98b)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-13 19:39:01,347 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b467d5-43294f034f7e822f2f2c0249;e767c6fa-d9fc-4f53-aa5c-c40703486f84)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-13 19:39:01,604 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b467d5-3a699ac33ebc98853761b10b;88dcc5ca-e271-4007-a010-e5f8aaf5490b)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-13 19:51:00,628 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b46aa4-63fd5033380f9a6852b71a9a;b3ad2a19-66ef-4a2d-beb0-08aacaeea422)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-13 19:51:00,884 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b46aa4-120205d74d77525f73a23c24;e608c9c7-323b-47d7-85d7-840645ac1583)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-13 19:51:01,131 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b46aa5-67ae90240b36af5d2e5721bf;aef7515f-ee1e-4723-994c-63becd3a516a)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 06:35:53,750 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b501c9-18b1a0675990833c1a85ec44;8c4a871d-5cef-4b30-9e14-1201812cbd2f)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 06:35:54,007 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b501c9-5c3db5fa39292b1a55484b42;30738d6b-c405-42e0-82e1-e9d85d39cac0)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 06:35:54,252 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b501c9-26a208343278952e660d82bb;48b66421-4aaa-4062-8406-cc74c71b0ae5)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 06:36:08,822 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b501d8-474ba52342ab11ea29ecd95b;a0a5a501-df40-44e0-9c89-8942239bf246)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 06:36:09,067 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b501d8-21f8c10425d9ff8b15e51c84;53825648-4fd3-4b9e-8214-159129e58ff9)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 06:36:09,321 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b501d8-2365b31b480c02a2314b0b1e;1ce7fb2b-2f85-4c6e-9b17-c6b60ff1de4e)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 06:36:21,207 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b501e4-2cd87f57477df9767db02ccb;4ed99008-c301-414c-aac4-ebadfa588d0d)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 06:36:21,504 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b501e4-2b5af1984047605c38cf581c;cda233e5-bc9f-4c9f-a436-7615cbad5cd9)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 06:36:21,791 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b501e5-76ffc6e472fc08e566a09b13;89378583-7d69-41e5-a48a-fab9afbc8d8b)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 06:37:03,189 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b5020e-1f4f309240230222643c0e77;ab0414bf-289a-4f57-8e30-df13f50ab7aa)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 06:37:03,445 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b5020e-5ab29b333a072a4d78957b9a;b2b4cc99-3dae-4846-9ab0-b1aa19d59a20)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 06:37:03,694 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b5020f-24cdb3022126771404aadb2d;9ed88388-fa2c-4528-95bb-0d65131ae211)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 06:41:15,585 apps - Could not pre-fetch tokenizer_config.json: Cannot send a request, as the client has been closed.. Will attempt during load.
+WARNING 2026-03-14 06:41:16,601 apps - Could not pre-fetch tokenizer.json: Cannot send a request, as the client has been closed.. Will attempt during load.
+WARNING 2026-03-14 06:41:17,611 apps - Could not pre-fetch config.json: Cannot send a request, as the client has been closed.. Will attempt during load.
+ERROR 2026-03-14 06:41:18,003 apps - Failed to load GLiNER model: [Errno -3] Temporary failure in name resolution
+WARNING 2026-03-14 06:42:06,977 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b5033e-3424fc9a7402465c7a4b73b9;15c66a0f-31f0-49fc-99a6-8286486e6a55)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 06:42:07,223 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b5033e-0c2faa436d255f161072521f;966dbb2f-65f6-478a-8ca5-ccb78aaeda6a)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 06:42:07,544 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b5033e-4da7109d3ccc10a64d1b4a94;cb16d23b-03df-460d-bde7-3f2e3cad166e)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 06:43:51,692 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b503a7-28c04abf040e07154a0c78aa;b2445b87-28bc-4027-964f-9f166ff86cbe)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 06:43:51,984 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b503a7-28f3221a564630c26a7f821e;ed996d10-1489-4c87-b390-a5b0ebb1f516)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 06:43:52,282 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b503a7-576c18972eeca4302d5224da;f3460399-f63c-4769-bbdb-b10822ed6da2)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_medium-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 06:44:35,356 apps - Could not pre-fetch gliner_config.json: [Errno 13] Permission denied: '/home/om_patil/Desktop/Codes/projects/Biosphere/NASA2/.cache/models--urchade--gliner_small-v2.1'. Will attempt during load.
+WARNING 2026-03-14 06:44:35,744 apps - Could not pre-fetch pytorch_model.bin: [Errno 13] Permission denied: '/home/om_patil/Desktop/Codes/projects/Biosphere/NASA2/.cache/models--urchade--gliner_small-v2.1'. Will attempt during load.
+WARNING 2026-03-14 06:44:36,193 apps - Could not pre-fetch tokenizer_config.json: [Errno 13] Permission denied: '/home/om_patil/Desktop/Codes/projects/Biosphere/NASA2/.cache/models--urchade--gliner_small-v2.1'. Will attempt during load.
+WARNING 2026-03-14 06:44:36,499 apps - Could not pre-fetch tokenizer.json: [Errno 13] Permission denied: '/home/om_patil/Desktop/Codes/projects/Biosphere/NASA2/.cache/models--urchade--gliner_small-v2.1'. Will attempt during load.
+WARNING 2026-03-14 06:44:36,791 apps - Could not pre-fetch config.json: [Errno 13] Permission denied: '/home/om_patil/Desktop/Codes/projects/Biosphere/NASA2/.cache/models--urchade--gliner_small-v2.1'. Will attempt during load.
+ERROR 2026-03-14 06:44:38,013 apps - Failed to load GLiNER model: [Errno 13] Permission denied: '/home/om_patil/Desktop/Codes/projects/Biosphere/NASA2/.cache/models--urchade--gliner_small-v2.1'
+WARNING 2026-03-14 06:48:02,096 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b504a1-46f61ba707b41da01001fe16;49e773cc-ca7f-403a-9736-664613966139)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 06:48:02,339 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b504a1-3088e6a73aded1f14b87d828;6326b651-8d57-4483-81e2-b8b82b13e2d3)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 06:48:02,583 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b504a2-1b76c29a72b7a6031955d71b;dacbaa94-227b-4d8b-9334-143b8a7182e3)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 06:48:20,658 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b504b4-2b37d80e703c3c615773bafd;bdf47b3d-6114-4eca-b679-d1fc5c8987bc)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 06:48:20,903 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b504b4-2717269b17e6e6150c0c3d2d;6a20cb9a-4d9a-4dcf-a938-ba8c7d481c94)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 06:48:21,157 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b504b4-25c4fddb3c8047f41658ea77;c99ba6df-cc55-4e6a-a091-3fc581b6f1b0)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 06:48:32,475 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b504bf-0bfed78f6059e2995012c786;e3d6fe21-7228-44b7-b653-77ce8c164d76)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 06:48:32,722 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b504c0-0c38aa640c88e0a6440dcd64;de34ce1f-270d-4ba5-a134-c20f501c8fc9)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 06:48:32,970 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b504c0-7c93821d745870e664f3cfb8;78d02d63-3af5-47bd-a763-da95ec9fb41d)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 06:52:52,652 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b505c4-6609556649acd27c7880d4d0;3e8a126e-db91-4a44-92c1-4790f8c0e1d2)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 06:52:52,942 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b505c4-2703294446ae30f4444f2735;6bbda9f9-5c15-4ae0-ae1a-530e288acff4)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 06:52:53,254 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b505c4-563b3ad4607622621f1a1c25;4997119e-a96d-4143-91ae-8bd03cdd6df0)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 06:53:46,819 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b505fa-074461a7316f99e16b33fc84;9588311d-a5c3-4cfe-8615-1796c945f5f0)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 06:53:47,068 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b505fa-3c83815f29362937736fa5e4;dac274af-b9db-42d9-b960-378b5d232365)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 06:53:47,324 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b505fa-43c1f33457efb0b03afc0805;f791b39b-cd48-4f28-b3cf-57b29616ae6d)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 06:54:12,631 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b50614-67d2af7754df0ea76bc6cfd5;04a975e0-5102-47d3-8e75-be731a17b8e7)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 06:54:12,886 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b50614-2eb980b2602d27c60a98ddb4;4c1992ae-012a-4f5a-b368-9c63ac35f3e7)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 06:54:13,129 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b50614-1233f96d584acffa0b05caf9;30df767e-c7c1-44da-a0c2-38393e7e8ce4)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 07:09:33,028 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b509ac-5a2e4fa212b84bc22161d2d5;3082c571-6d4b-44b8-9842-1ab021a5a0cf)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 07:09:33,272 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b509ad-090449721ed0fb1c3b8eac1b;f96df01a-5b89-470a-a77d-89ad88f256b3)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 07:09:33,523 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b509ad-020cb8c6653ea6ce383e6f1a;f6bc5a3b-8b27-45a4-8087-fb6ec81360c4)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 07:10:02,764 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b509ca-1c8ecd977d0dcdbb7fef5620;270bd423-c3b6-4b41-ab47-967f9e0f2648)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 07:10:03,006 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b509ca-60e040930ffc4d817c366ae4;3111c299-5c6b-4796-888b-116f39cba588)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 07:10:03,256 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b509cb-4dd7cb6853c68724008d28bf;d9ef9589-29eb-4769-b286-c06c886d5819)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 07:49:33,548 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b5130d-32abe1e03f0b1fd83d92ce5b;c51a6926-04c1-488e-bed4-05a7966067b0)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 07:49:33,789 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b5130d-4b6cf2cd156c4b3c2b965d8e;227842f8-4e2f-4636-aeab-3d98303e2193)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 07:49:34,039 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b5130d-0368989829ae638a31533d6c;61fcbb88-91c8-4ed4-8a05-9234aa461e63)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 07:50:58,557 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b51362-098995c56f82ecc43422be7f;f510edad-67d6-4db6-a3f5-3f06f5c5e007)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 07:50:58,801 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b51362-40fdcc5b648ca681644b6423;74ad4de4-4b58-425e-8556-5ae1af031fa7)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 07:50:59,055 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b51362-30f008e362c201be3ea0c792;6000b06e-d07a-4907-80d2-4083f63c79ba)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 07:52:10,542 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b513aa-6b8491cf07f04a1c5d9b72ba;a6c805b8-9c14-452a-9841-b9182b0f5327)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 07:52:10,789 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b513aa-48eb81e8279869dd19c71809;14dd953b-2828-41f5-ad6b-a536d27cd11f)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 07:52:11,032 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b513aa-4855468f453f7d964b9f8895;96ecef73-8a29-4a0c-ba4b-279c13001772)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 07:53:05,319 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b513e1-3ed6a6910432049107792540;7cbfb246-3c43-427a-a36d-200d674b195f)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 07:53:05,571 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b513e1-6294ac001e6633b175df9aa3;92192ff4-dedf-4b49-8b92-5142e4f13d08)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 07:53:05,853 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b513e1-27a74a0001c19819173dfd23;f5e8e544-8e7f-4105-a0d8-84184af682e5)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 07:53:36,584 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b51400-3a75c457148e58aa5de5dd05;731b9c51-84ad-43a1-a8de-00b86af425f1)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 07:53:36,843 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b51400-3332511402e138a80b43e490;2ef636ee-03f0-4330-a54e-24999e47e678)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 07:53:37,105 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b51400-7b6e6ce16a950be23753107b;94c70c53-e337-439a-b6a4-2edf68cd84da)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 07:54:11,356 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b51423-0e471d57425270523868ee74;c47c13aa-dc36-461e-8a1a-d52b91e0fcad)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 07:54:11,625 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b51423-388944c0464e87e33a823d40;25ce24af-5eda-44db-bdf6-26b84d10e917)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 07:54:11,873 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b51423-598fd98a2ae008d27a413adc;2cfef35c-84b8-4926-b5a9-cacec6dfeac7)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 07:55:04,365 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b51458-26ae5bfc0b7017035d7a36f4;4e65e628-b6e8-478b-9e4f-45c014bd8a48)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 07:55:04,620 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b51458-4eb2c65347a5abe70f54eca2;b4a5b333-6db0-462e-b405-9bf71d44a11e)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 07:55:04,870 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b51458-0371f2984a2d6d3b3aee4239;04ae50cd-4b0d-44c2-a52c-2c0c8fc6b8e4)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 07:56:18,074 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b514a1-55cbe42c288d9372109095cd;309d855c-3012-467b-bef9-15b399c4b48c)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 07:56:18,320 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b514a2-1a5f62162cde6d0072e18678;bb6fa25b-b42e-45ad-97e9-a06b41c66ced)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 07:56:18,577 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b514a2-31f8dfee21f75e8213d941a3;83d8fb01-1a25-44d4-ab9b-424a17ea7f80)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 09:56:58,633 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b530ea-75a194e45b436f3f5db17cd0;6dba3c23-e11d-482d-95f5-42fd38ea4db5)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 09:56:58,850 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b530ea-1672b18720f612495b57ce05;446a7b8b-a969-48c2-9edc-7e10e0bd0649)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 09:56:59,069 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b530ea-699237af4d34381336bc85ac;85cb0420-002f-4ca9-888a-17a9064bae81)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-14 09:57:16,232 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b530fc-52b063ed2e71bb160a40f2c1;bbd04c16-2800-4593-a3d9-b36cb289d017)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-14 09:57:16,449 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b530fc-525b73df35874574766e03c7;fbb785b6-0f6d-4037-876e-23d5841cbda5)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-14 09:57:16,668 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b530fc-54121ae67c700eb94f87b48d;e48ce3a2-44ca-44b7-b2ea-8df923bcc272)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 10:18:12,314 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b68764-081de11f7d036d2f47291c9b;2dec32e8-3917-4685-8ac3-b7ee9f583f5e)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 10:18:12,534 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b68764-3f00fb8266f5577815aabfec;11290faa-422c-4c52-9a1f-1a37d0f51507)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 10:18:12,751 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b68765-5158c9ec5a9c84f45dc80a86;aa2ec8ed-e214-4367-b9ee-f1f201b92f99)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 10:18:28,150 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b68774-513efc0f6185f7f8078694b8;f9607fae-77a7-46ef-afa8-804fa2a31c6b)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 10:18:28,369 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b68774-7f821f147cdcfede1694a580;a0dcdbe7-2fa5-4c50-9a4f-b8a08a1440b2)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 10:18:28,584 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b68774-14fbbdb456651b2028ec19ae;52ad9867-3250-44ac-9a04-bc3f948b006e)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 10:18:38,836 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6877f-274c67071b881c1521699f40;574d6751-6809-448c-b536-3ea084e0f98a)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 10:18:39,062 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6877f-6ea28eed24a350c475113123;624d2200-e566-49a7-b4ac-a477f85828fd)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 10:18:39,279 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6877f-2c4f092c50c9d2d758273857;ecd1c9c5-41c0-4528-887f-553cfb29309d)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 10:21:47,192 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6883b-20caa44d2972066e6966c1f5;ff6cffaf-cd6f-4db8-b163-b8c0bb8bdc07)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 10:21:47,410 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6883b-575715a93cfda58a72b4a5b5;1d520b58-3e9f-4f25-83ca-fb832b14e257)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 10:21:47,627 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6883b-237b4b1c46b9c16e15567b7c;d1596818-34b9-4023-9eae-6d499b6ad09d)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 10:36:06,920 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b68b97-1253bb566c524a7c4a29529b;5aae79c5-6c42-4d12-9645-1d07a4b4e943)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 10:36:07,144 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b68b97-1820898a640fada46e42c93a;8c94fdaa-1df7-43d3-a54f-e606589e807e)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 10:36:07,363 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b68b97-7f148eb15761f9e12b3e4ce5;98d3234c-f535-4bde-895d-3b062712f6f5)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 10:36:46,287 apps - Could not pre-fetch tokenizer_config.json: Cannot send a request, as the client has been closed.. Will attempt during load.
+WARNING 2026-03-15 10:36:47,320 apps - Could not pre-fetch tokenizer.json: Cannot send a request, as the client has been closed.. Will attempt during load.
+WARNING 2026-03-15 10:36:48,351 apps - Could not pre-fetch config.json: Cannot send a request, as the client has been closed.. Will attempt during load.
+ERROR 2026-03-15 10:36:48,785 apps - Failed to load GLiNER model: [Errno -3] Temporary failure in name resolution
+ERROR 2026-03-15 10:36:57,514 extract_facets - GLiNER model not loaded. Skipping entity extraction.
+WARNING 2026-03-15 10:37:41,359 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b68bf5-4ad7584c279176d37518d50b;3d4568c3-d206-4dfc-8872-59479c4b6c10)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 10:37:41,576 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b68bf5-4221c6537f81139176c2ed31;7b395c68-50d3-41d8-a92e-b3afc73aa859)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 10:37:41,797 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b68bf6-400555c529acbed21d8a9a4f;0326f87f-e715-493f-bcfc-a3751be68058)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 10:38:50,356 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b68c3a-56b9c439343800e5216b0ccc;858c51e5-94e5-493f-b130-974d831adaf2)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 10:38:50,573 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b68c3a-66f305c33538ab7337027a81;96fd5296-81fa-4fe9-a255-d80681bec467)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 10:38:50,789 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b68c3b-4fa5b6c262e0acbf6782ed38;dc9a9947-0325-411c-9f45-7a0ae4a2eb1b)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 10:53:51,664 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b68fbf-60238164204d61d4652feb0b;ad949552-13ed-414b-a49e-59e7ab2224b1)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 10:53:51,879 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b68fbf-72e382497f7b94763ed0ce79;b0bfa694-02ff-47df-8684-31e9ba2b3897)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 10:53:52,100 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b68fbf-5514a81f35f2f9243a0dc238;4a37193f-cce5-43bf-9d45-477cb2268ace)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 10:55:04,455 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b69008-650135cd2358c2027426aff4;bdf8b7bf-3ec4-4299-9eba-6416330d42cc)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 10:55:04,705 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b69008-0c2279832d79020e15638304;47e8296c-8497-4126-99a1-69261cb252d3)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 10:55:04,970 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b69008-41b80bef6cd652944b2c2b63;7133a36f-19d5-4075-a2d8-c72e07d96f78)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 10:55:20,393 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b69018-648d38a32180eefb313c7c30;8162bcd5-d9d7-4170-b001-77dcc89cb24f)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 10:55:20,643 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b69018-680db6283924c70c3547c3ea;cd0b762a-efd7-424a-8668-e2fc39a47679)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 10:55:20,909 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b69018-2afbb0702881a30e4ed77372;c509b6a8-2873-4253-b2a7-85fa18dd1061)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 10:57:38,842 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b690a2-1d54eb706b2dae585b3e2d95;85a29cdf-8be9-4189-8f3c-e98c463b8054)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 10:57:39,061 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b690a2-6c987c0f06f5febd0efb0507;b332dd17-dbe0-4a71-94e5-21cf5d09ef6a)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 10:57:39,278 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b690a3-47bed79948578f0f59327a5a;5230a99e-e71a-4f5e-b581-dd7373ea6c78)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 10:57:58,360 apps - Could not create cache directory /usr/app/.cache/huggingface: [Errno 13] Permission denied: '/usr/app'. Falling back to default.
+WARNING 2026-03-15 11:01:06,217 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b69172-796267be092a3f4650bc5704;2e26acca-b087-49ba-b0c7-2cf4986357a5)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 11:01:06,429 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b69172-43f5cc7b75ff637009dfa9dc;ecb1b672-a9fc-4132-97c9-b49a4cc11428)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 11:01:06,646 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b69172-519c66860779410b3b0eeea4;3fa1c169-565f-467d-8acb-f3c6a9480d6c)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 11:01:34,524 apps - Could not create cache directory /usr/app/.cache/huggingface: [Errno 13] Permission denied: '/usr/app'. Falling back to default.
+WARNING 2026-03-15 11:01:35,277 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6918f-257df8840289c5e548799cfd;bfe9ab5d-195a-40fe-afbb-48d5ec23ed50)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 11:01:35,489 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6918f-24a3b008733d99614a9163d6;5e93d99e-efde-438c-aff1-0315802a6864)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 11:01:35,703 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6918f-2157346a3bd05db6593282e7;7bc86559-e597-43b6-a77f-9941409dce60)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 11:10:14,562 apps - Could not create cache directory /usr/app/.cache/huggingface: [Errno 13] Permission denied: '/usr/app'. Falling back to default.
+WARNING 2026-03-15 11:10:15,319 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b69397-36d1004d5ee0de251c67b7a1;34833b29-68a8-4ad6-8150-82662ab788f9)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 11:10:15,541 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b69397-0c898ab46ba6aa231b193735;09de8a42-3fa6-406a-90e0-db107ab78f28)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 11:10:15,757 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b69397-36000fb951e7d2e42985b079;8af2b063-fe4f-46fe-8504-dd1442c53004)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 11:11:53,571 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b693f9-5037ad8976f2aab64a48d0fc;a5c09b8a-5fce-4e4a-bdd5-f0b2a84998d6)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 11:11:53,787 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b693f9-383e57f50fb11bd2281e5a8b;879c8464-f0aa-4202-8d3f-73ea5cf54b87)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 11:11:54,002 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b693f9-52f5a6f86189e8ca2a5727d6;c4761d82-e4d6-425c-9306-5331ed357e01)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 11:12:26,657 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6941a-1fbd6947775e6e602ce9f577;6f31b2d0-0305-417e-809e-2a969ac8f7df)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 11:12:26,871 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6941a-47884b3e65622ccf798499ca;dae3ac9a-659b-43bf-b7e4-a628e65a623e)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 11:12:27,088 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6941a-30b185a13f0a182c22849947;e7c99642-e178-4a5b-90cc-3fc6eef98183)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 11:17:06,096 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b69531-3473fcd333af590060c96a03;969f60d3-79e7-4651-ad22-58df89b9efd6)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 11:17:06,322 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b69532-05831eac275e3f0b2a5b1511;310fd5b8-e672-4082-b6ad-bae87bf1f674)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 11:17:06,538 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b69532-57f342773aa59dbf2caabac4;a8a5a27e-3283-4a0f-bbd3-cd4170ea9d7e)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 11:22:27,090 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b69672-199c5e875afb1a9e674fe664;88bb5442-4d36-4365-99ab-316debc461a6)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 11:22:27,348 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b69673-19ffa95c49b4ef20381b5fe5;4770ae4f-77db-451c-8331-717119c9f0c3)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 11:22:27,606 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b69673-2d79ad0759968ff57327e7be;6e600db4-8d1d-40af-9be3-95e8cef5c70c)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 11:23:54,733 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b696ca-797f618d538a527f50528a07;08099429-8fe4-4d75-94fa-f2d16cb43ef8)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 11:23:54,953 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b696ca-08cb37ce4e52b913380744ba;38921377-7e76-4960-af13-60fbab36e15a)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 11:23:55,169 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b696cb-040ab438009cd79009d32c21;08d1756d-9476-4d56-80ea-5814f2ebde57)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 11:24:36,328 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b696f4-7d542025274cfd62180d2d64;a50e6452-034d-49a2-9432-2bd1a91be0a4)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 11:24:36,543 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b696f4-26b3d8675e53570b4cac430c;5549998f-ff0f-4de2-b2f5-c333d3b3d45a)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 11:24:36,761 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b696f4-7d3936901844667054e9703a;b3e219a0-3b27-4d47-831d-36fdd9eb91f7)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 11:25:25,232 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b69725-7e54bcfe56f7a6c07384c2a3;88b60fdc-4455-4d7c-9488-64d317b8049c)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 11:25:25,450 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b69725-299e5dd51d8f843c6d363b20;4005625c-a6d2-4dcb-b807-00e18e43b986)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 11:25:25,666 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b69725-1663637959a118b63aa46ad4;315632f2-3e05-41b4-826c-053df23f34ea)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 11:30:08,260 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b69840-10627f1f151211da23c2cd22;8e7bc4a0-6d2f-4335-aeaf-208f918a5503)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 11:30:08,513 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b69840-66238959206540d606cd26b0;756901ad-c335-4bde-be28-5510e63ab62e)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 11:30:08,728 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b69840-5c4702b37239271b0b3efd9a;bc362c2a-2c9a-49c6-9439-76d918de9448)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 11:30:46,506 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b69866-7343370a0c3cdbbc5e0341eb;163b1308-e91a-4bdc-8d89-bf0a7e5f651f)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 11:30:46,729 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b69866-6af91c6023b5722125f0efe0;07d3bd02-3660-4179-9dad-f34fd31b62ca)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 11:30:46,946 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b69866-3c3bf82968bf53320398b079;7dbdb4ab-1d16-4b33-8192-40a7dd79bcbe)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 11:31:06,959 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6987a-4b37f62c42eb1bdb4a586900;bbfe1284-dbe7-4e71-aa99-2a06e1d534ec)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 11:31:07,195 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6987b-08cf24e2038f634c4a3fa2f7;77e8bd2a-beea-46bc-9cfd-f5a1b8a4d93d)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 11:31:07,441 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6987b-5369d7d17cb7befc2a27eb8e;07d5225c-edca-4d57-a82f-44c183c5e55a)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 11:32:26,962 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b698ca-74a8a5a4648552a93e8da877;46ee3fb5-9b4a-4b98-914c-4cda6ad98167)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 11:32:27,204 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b698cb-202e6b4a6f43034544c93062;ec7069ac-a835-4dae-abd4-619ac8ccaffd)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 11:32:27,423 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b698cb-24179af232512820043cb274;d2e5635c-03f8-466c-b3cf-945d7182b62b)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 11:34:38,654 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6994e-19c6e54065862eb4233cd64a;5553c9c4-4054-4a65-8950-bf96467d8e67)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 11:34:38,871 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6994e-4dfe95dd6dcbd8736a43dfd2;6d6a6437-930e-492c-8b28-00e27223dfa1)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 11:34:39,088 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6994e-4b865db32026cacb4f569f22;e3e4eea5-b4fb-4e94-af54-5742e6e2ed49)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 11:34:58,390 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b69962-4d2234fb26adab2772891981;879c8d40-3d63-439a-be77-70fd18f55c0d)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 11:34:58,611 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b69962-25f7f6031132b6597fce2da2;8284783b-2bb2-4e04-a269-7b6c5ef669af)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 11:34:58,824 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b69962-545af1e85eb5505c7423b5b1;da27cb52-1f2f-45a9-b07d-6017dce621c3)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 11:35:48,887 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b69994-075eccdd27b5334c6a9cbcc1;c80fdb7c-865e-4026-abc1-49d37cfa6b41)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 11:35:49,107 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b69994-06233486391a7ef42123c738;e2178bab-ba7e-4989-8481-43cf8b916cf0)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 11:35:49,324 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b69995-03d8a3a80e0b01b94d434174;d97b86ad-37b2-4e6c-91da-6c72f0d9fee9)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 12:10:47,263 apps - Could not create cache directory /usr/app/.cache/huggingface: [Errno 13] Permission denied: '/usr/app'. Falling back to default.
+WARNING 2026-03-15 12:10:48,134 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6a1c7-7e214dcd30b60e5d523afc75;6354dc0f-4449-4e09-bd65-a7ef3f105704)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 12:10:48,348 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6a1c8-3cc7769f2b7bb1a715920968;69374259-400b-460e-9d89-5e262777edaa)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 12:10:48,564 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6a1c8-68f646987c8e1ecf521a5778;8646f7e4-c893-4bdc-84c4-0e13f924a5b7)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 12:11:58,203 apps - Could not create cache directory /usr/app/.cache/huggingface: [Errno 13] Permission denied: '/usr/app'. Falling back to default.
+WARNING 2026-03-15 12:11:58,975 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6a20e-3fd2db2217c2c1fa4e80d06c;3b369304-e5ea-477f-ad82-9069b015be89)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 12:11:59,191 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6a20f-28e6279a5add38106a7ce15f;0115a8ec-6d3f-4ce3-8559-c4afbd50f7b1)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 12:11:59,403 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6a20f-3fc5d5524a49206b3b0d8738;515bdb6a-aca5-4b25-a1c8-bb00689b48f0)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 12:13:25,847 apps - Could not create cache directory /usr/app/.cache/huggingface: [Errno 13] Permission denied: '/usr/app'. Falling back to default.
+WARNING 2026-03-15 12:13:26,600 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6a266-4bc7455414ef351e32448406;623cffa9-8058-4c94-ab9c-35d819175b00)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 12:13:26,817 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6a266-4ba920d5284867e30e68b5a4;aa0e1fce-00c1-4296-a350-b7e524280ada)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 12:13:27,035 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6a266-71ddc836616c0074241563f9;3261e0b9-a735-4e54-9ff2-9942dec016b3)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 12:30:00,761 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6a648-4fac1b596dc0eee64011b151;33b2abea-d9f8-4d15-bc3b-d12520d4ea4e)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 12:30:00,979 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6a648-5dc718326cb79a4103ce82ef;a1e15dc7-287c-44fd-964d-2b0cfa7d0fb3)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 12:30:01,194 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6a649-31a8ab9f41da83505f60f6bc;01a4b289-7a02-4282-bd1a-cf3d825e6dac)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 12:32:07,729 apps - Could not create cache directory /usr/app/.cache/huggingface: [Errno 13] Permission denied: '/usr/app'. Falling back to default.
+WARNING 2026-03-15 12:32:08,552 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6a6c8-402129ad1966e6bd28029bd3;ebf9142b-cea3-47f0-96c3-f582967ccae1)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 12:32:08,770 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6a6c8-0a3caada4703a6e26eda9dcb;8261b986-b457-4c40-9691-2c05250ddab2)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 12:32:08,999 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6a6c8-57d674110e67bd796c97feb9;d578d64a-913e-4333-b3aa-9c1e4aa6dfc1)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 15:48:38,892 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6d4d6-3c214d6e5438424060856641;f2049c4f-8de8-4885-9745-4a42f565ef3d)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 15:48:39,108 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6d4d6-10e7a0dd73e037923cf1ba0f;69904e24-595a-4438-b70e-75b8771a3e89)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 15:48:39,332 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6d4d7-0447e8a72ebbbe5e2885c0e3;6abbe698-2cfd-494e-9ee7-ba0a72b024b3)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 16:00:36,165 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6d7a4-5e467d2f2be093aa4d6d4803;61e5b725-86a4-4a7d-82ae-a84520b0e82e)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 16:00:36,385 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6d7a4-2c7801af683b74ba1985f0b2;af770db6-8f85-4596-963b-54a234903731)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 16:00:36,607 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6d7a4-228b2f275a4e87d25f603907;9cce9d32-dc99-4c00-aff0-ddd1dfab7859)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 16:01:53,940 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6d7f1-55425dee7f1ac8c309afd9e5;d6ead16b-e9ef-43d3-bdad-d4fd5924ba20)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 16:01:54,155 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6d7f2-1ea7e4c502ad9d5637df62ca;6ccde1b4-f59a-42df-8d22-4ee6b3993985)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 16:01:54,371 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6d7f2-49a57c3226bfb28173275750;944d5174-6697-4649-86dc-505b581bc01f)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 18:03:16,364 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6f464-745041f94786ab4975861606;2783ee17-581e-40bd-a1f7-bef04c1e816c)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 18:03:16,590 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6f464-7c9fb57030821bac73b6f830;926ee508-bbbe-4a27-baa8-1f438b4e2dd7)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 18:03:16,811 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6f464-53c11aa20ba3b14f77221eb8;988fe378-b4a9-446d-b455-6f6b5a7f4bf7)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 18:03:31,891 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6f473-5a96a7ad4063b8c37af470d1;bd63e336-d237-4c0f-b19e-13a473e9e571)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 18:03:32,108 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6f473-66453d72321003af74d80f31;00f67cb1-4f05-4764-a365-b1673e15708d)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 18:03:32,326 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6f474-2d2db2f0783d1b6248e2215f;f5324778-d5a1-4424-b899-27fafadba85e)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 18:03:42,871 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6f47e-0f9932fa366c0b26182561d5;5ea5f544-0fe5-4363-bf5b-3eb4c6175e50)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 18:03:43,083 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6f47e-44fa58ed626ed5eb273ec6ce;c19a0e3a-5df5-4c5c-925e-588375483b9d)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 18:03:43,305 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6f47f-2e380d7322552f1643cf50a1;9d0c8f26-7820-4229-b255-a0f99db33229)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 18:06:24,937 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6f520-5014d50c76632baa699fd929;6d17f10e-0a65-4b56-a1ca-5e9facc85a84)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 18:06:25,156 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6f521-060ff90545b042765b678385;8c45cb74-3293-435a-aae5-9ea06df1a250)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 18:06:25,379 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6f521-42e60efc110f0f7b693fe610;070f2fe8-6293-42d3-a3d7-60376b8ec1a2)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 18:14:24,093 apps - Could not create cache directory /usr/app/.cache/huggingface: [Errno 13] Permission denied: '/usr/app'. Falling back to default.
+WARNING 2026-03-15 18:14:24,849 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6f700-775d880b702b136b7f9cb95d;87085dc4-6ae7-4fbc-bdd6-5e0e7e7bb1f9)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 18:14:25,066 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6f700-2ca38309791ac03c5768c5f9;b10e419b-e665-4792-8923-9a111ff4c4b9)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 18:14:25,284 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6f701-60d8275661d00d3e350a0588;399c26ae-c16b-4074-bc5b-37237a74c9d9)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 18:14:50,260 apps - Could not create cache directory /usr/app/.cache/huggingface: [Errno 13] Permission denied: '/usr/app'. Falling back to default.
+WARNING 2026-03-15 18:14:50,999 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6f71a-3d1249f822688d0f431eff84;b9bfaadd-ef36-4f0c-bd52-9883589c5663)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 18:14:51,214 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6f71b-5ceb69a438a3e7d1684481dd;945a27f3-5348-4adf-8b75-bb2a18399abf)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 18:14:51,429 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6f71b-33825a4421756f843a28b263;2df60ac0-1c42-488c-8ae6-0e42d3d0798f)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 18:36:21,337 apps - Could not create cache directory /usr/app/.cache/huggingface: [Errno 13] Permission denied: '/usr/app'. Falling back to default.
+WARNING 2026-03-15 18:36:22,074 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6fc25-065cefd003382fb541193042;c270569f-e614-410b-ad67-d880cbffc2f9)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 18:36:22,290 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6fc26-1f4794ea513f9c600f0d89b1;918fa2e6-6e03-426c-be47-9e1d6bff6088)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 18:36:22,511 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6fc26-4154d3f0140e0c583396c1b5;598080b9-cca8-42f9-b0c5-a91260c50a21)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 18:36:38,584 apps - Could not create cache directory /usr/app/.cache/huggingface: [Errno 13] Permission denied: '/usr/app'. Falling back to default.
+WARNING 2026-03-15 18:36:39,417 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6fc37-1d00a2071a2aca6a5150c3b6;160752fa-82f9-4907-9942-331ad5a4df4d)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 18:36:39,632 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6fc37-3bcf83f14615624a02cec7a0;daff1466-1752-4991-a414-b04407f93785)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 18:36:39,857 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6fc37-46c950b67312942b1b82ad38;07a33d91-ea05-4896-ac92-a2fe6bd4831f)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 18:37:28,042 apps - Could not create cache directory /usr/app/.cache/huggingface: [Errno 13] Permission denied: '/usr/app'. Falling back to default.
+WARNING 2026-03-15 18:37:28,781 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b6fc68-77e555d20532a3573b6f8b83;bb2da348-6f0d-4856-b6ed-ffe75b147122)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 18:37:28,994 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b6fc68-21fa70e569e30c96541355d1;1cecaba5-86e0-4db0-a8c2-3b0abde49ac6)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 18:37:29,218 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b6fc69-24c7746a6deb02f30503b670;c75cdc88-a527-4168-883e-fe90b3c7c031)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 18:54:02,654 apps - Could not create cache directory /usr/app/.cache/huggingface: [Errno 13] Permission denied: '/usr/app'. Falling back to default.
+WARNING 2026-03-15 18:54:03,405 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b7004b-17df5d015f3b08a4285334f8;928aa911-fc97-46fb-85aa-dde779e853e4)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 18:54:03,625 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b7004b-3aaa43110583fb6a789e9631;15621830-0136-4a14-aada-fd9b3aba8ac5)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 18:54:03,843 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b7004b-7a7f4d834ae5ee43593046c0;1ad62b2e-501e-4ddb-bad8-36b5a0861c09)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 18:54:23,554 apps - Could not create cache directory /usr/app/.cache/huggingface: [Errno 13] Permission denied: '/usr/app'. Falling back to default.
+WARNING 2026-03-15 18:54:24,289 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b70060-5b2e579d22e10b2570080408;3b5a86d8-305e-47d0-8c2f-7cdff6932c9f)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 18:54:24,526 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b70060-6b6b228639f3ec7d649f695c;da64a66d-1ae8-4dc7-9dbb-8a567a99060f)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 18:54:24,770 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b70060-7d4de54e77c94add405cb597;ac96ec41-9760-46bd-9350-6d7c71d1ca09)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 18:54:48,965 apps - Could not create cache directory /usr/app/.cache/huggingface: [Errno 13] Permission denied: '/usr/app'. Falling back to default.
+WARNING 2026-03-15 18:54:49,833 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b70079-0c91846811e096046bb152c5;b0072b4e-7fcb-4b6f-abd4-c6aab80a25b6)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 18:54:50,050 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b70079-3b57b7b546e57f9462658041;9d43f8c1-76ea-4353-8d95-8050c9fbf625)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 18:54:50,306 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b7007a-7d9cf8d60fe16229430de80f;679c5710-5ca8-4d70-9116-5211f6d0c2f2)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 18:57:40,961 apps - Could not create cache directory /usr/app/.cache/huggingface: [Errno 13] Permission denied: '/usr/app'. Falling back to default.
+WARNING 2026-03-15 18:57:41,699 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b70125-66e2306f11f10bc95533ab92;0d545572-2bc0-49f3-ba5b-237607900905)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 18:57:41,915 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b70125-4aed139b0e905f1a22a5f3ef;ff9425d7-277b-4307-afc1-dfc4406bd368)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 18:57:42,542 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b70126-264dc01d1b720ebc12d0e8ac;d71e1db1-88bb-41a1-a481-0a6e3fca4651)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 18:58:44,885 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b70164-1573ad7469e93b451fcf87fe;c88978fb-6ffe-4bf9-9a02-cf0204c74fe1)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 18:58:45,107 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b70164-33a75ac263e416e2301356f6;4954a4bb-b5b4-4bf8-8118-3e40ec7ce232)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 18:58:45,327 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b70165-44a969cb4224c1345affac4b;e137e120-8416-47e9-9495-c42b6cfa26f7)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 19:01:34,944 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b7020e-5c3b6c955d616cd60e82aa2f;cddf1298-7ea4-4220-b42f-a23b3a77e931)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 19:01:35,160 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b7020f-27fa2d152adbb01039244929;758e6a95-3f04-41ed-9831-39ef8b770592)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 19:01:35,376 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b7020f-4d2004c510cf708124a1e1e3;f1671f49-aafe-43f1-b5d5-a5a649a2cf76)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 19:03:30,330 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b70282-4dc4dd6b38b7d2dc0fbf7f90;a5a509c5-0845-4073-a321-776979232d46)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 19:03:30,546 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b70282-1768c5f503edb0ce01ee4135;54cf59f4-6f5a-4057-88c2-04c3ddb4488e)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 19:03:30,760 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b70282-7c0ab514748443d5044b7f6c;309a9216-fed9-47bb-a2b2-216eec522e36)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 19:39:57,567 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b70b0d-5f0cb39e04ddbc6a29dd0688;e3c97641-d85d-4b09-b02a-5dc82879e4b1)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 19:39:57,787 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b70b0d-3cc7ea9c563b666c3aa42060;4f5ea546-5636-4cc8-9ca7-8774b6281518)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 19:39:58,005 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b70b0d-56fb60875dd031b075229b6d;62cece37-92ea-4473-8739-6373f3f4961c)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-15 19:48:39,996 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b70d17-2550cd2d72ced53719ad76cc;42f959d7-4ccd-4501-9582-0afe8c2ecb33)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-15 19:48:40,208 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b70d18-07ef63882724f1fa5abae0ef;2f6484ce-14e7-404b-a1ae-a722d2c86ded)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-15 19:48:40,423 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b70d18-64a483be262538484f78c0ce;534adf02-eba2-46fa-bc62-df06b56ea3d7)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-16 03:54:18,861 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b77eeb-7857d1fb108db5df497f8784;bf521af9-5604-4406-9770-796e449c815b)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-16 03:54:19,078 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b77eeb-7363307d7afbc2736d9fad2b;145d8774-a5ea-4479-ad87-e0f73461e107)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-16 03:54:19,293 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b77eeb-4018fd4c285da7f05eb6b540;02818487-ef16-4f0a-9c90-88bc8d605cc5)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-16 03:54:34,588 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b77efa-72e4844a01a2ea864c74a738;c4a81c4a-8e7d-48b9-8015-d0a59d6908e2)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-16 03:54:34,808 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b77efa-2d71c8d561aa2c1745ad0590;0a1a78c8-e72d-4528-80c4-391c5b77bc3c)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-16 03:54:35,024 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b77efb-000cee262809bf3109c3af7a;7e3ec935-dff5-4ffd-a008-3f5eb72dbeb6)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-16 05:39:30,494 apps - Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b79792-6db7ecd025dbd6cc0b592727;73a20a36-fcb5-4215-8422-25c0b952eb34)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.. Will attempt during load.
+WARNING 2026-03-16 05:39:30,714 apps - Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b79792-6a35b4745f1f2fce3eaac4f0;26060063-e87f-4f40-8bfb-5c629b29f790)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.. Will attempt during load.
+WARNING 2026-03-16 05:39:30,935 apps - Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b79792-256582c402fc89ee49a57d8b;2a1d2054-2b31-48e6-ac4c-3d7ab498fdde)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.. Will attempt during load.
+WARNING 2026-03-16 08:56:13,720 apps -   ✗ Could not pre-fetch tokenizer_config.json: 404 Client Error. (Request ID: Root=1-69b7c5ad-0fd7670c34fa352826f71de6;3c2a0449-3664-41c4-9f16-7c823de97520)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer_config.json.
+WARNING 2026-03-16 08:56:13,940 apps -   ✗ Could not pre-fetch tokenizer.json: 404 Client Error. (Request ID: Root=1-69b7c5ad-1afafab2286200a1132b329b;0a25d639-606a-4345-addb-7f48ae7394f1)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/tokenizer.json.
+WARNING 2026-03-16 08:56:14,160 apps -   ✗ Could not pre-fetch config.json: 404 Client Error. (Request ID: Root=1-69b7c5ae-2e4eec647719f16a5e059c89;4b7ec9ce-a365-4a62-9e20-67f8cd342757)
+
+Entry Not Found for url: https://huggingface.co/urchade/gliner_small-v2.1/resolve/main/config.json.

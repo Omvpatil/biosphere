@@ -1,9 +1,15 @@
+from django.conf import settings
 from django.db import models
 from django.contrib.auth.models import (
     AbstractBaseUser,
     PermissionsMixin,
     BaseUserManager,
 )
+
+
+class ChatRole(models.TextChoices):
+    USER = ("user", "User")
+    ASSISTANT = ("assistant", "Assistant")
 
 
 class Roles(models.TextChoices):
@@ -30,9 +36,10 @@ class UserManager(BaseUserManager):
 
 
 class User(AbstractBaseUser, PermissionsMixin):
-    name = models.CharField(max_length=255, default="Name")
+    name = models.CharField(max_length=255, default="Biosphere User")
     email = models.EmailField(max_length=255, unique=True)
     role = models.CharField(choices=Roles.choices, default=Roles.EXPLORER)
+    google_id = models.CharField(max_length=255, blank=True, null=True, unique=True)
 
     objects = UserManager()
 
@@ -46,9 +53,41 @@ class User(AbstractBaseUser, PermissionsMixin):
         return f"{self.name}"
 
 
-class Author(models.Model):
+class UploadedPapers(models.Model):
     id = models.BigAutoField(primary_key=True)
-    name = models.CharField(max_length=255, default="Name")
+    uploaded_by = models.ForeignKey(
+        settings.AUTH_USER_MODEL,
+        on_delete=models.CASCADE,
+        related_name="papers_uploaded_by",
+        null=True,
+        blank=True,
+    )
+    title = models.CharField(max_length=255, null=True, blank=True)
+    link = models.CharField(max_length=255, null=True, blank=True)
+    paper_state = models.BooleanField(default=False)
 
-    def __str__(self):
-        return f"{self.name}"
+    def __str__(self) -> str:
+        return f"{self.title} - {self.link}"
+
+
+class ChatSession(models.Model):
+    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
+    title = models.CharField(max_length=255, default="New Conversation")
+    created_at = models.DateTimeField(auto_now_add=True)
+
+
+class ChatMessage(models.Model):
+    session = models.ForeignKey(
+        ChatSession, related_name="messages", on_delete=models.CASCADE
+    )
+    role = models.CharField(max_length=10, choices=ChatRole)
+
+    content = models.TextField()
+
+    meta_summary = models.CharField(max_length=500, blank=True)
+
+    papers = models.ManyToManyField("search_database.ResearchPaper", blank=True)
+    images = models.ManyToManyField("search_database.ImageNodes", blank=True)
+    authors = models.ManyToManyField("search_database.Author", blank=True)
+
+    created_at = models.DateTimeField(auto_now_add=True)
