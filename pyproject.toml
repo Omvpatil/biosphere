@@ -61,6 +61,7 @@ dependencies = [
   "langchain-community>=0.4.1",
   "langchain-google>=0.1.1",
   "langchain-google-genai>=4.1.1",
+  "langchain-mistralai>=1.1.2",
   "langchain-ollama>=1.0.1",
   "lazy-imports>=1.1.0",
   "lxml>=6.0.2",

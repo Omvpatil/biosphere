@@ -21,13 +21,19 @@ class UserSerializer(serializers.ModelSerializer):
 
 
 class RegisterSerializer(serializers.ModelSerializer):
-
     class Meta:
         model = User
-        fields = ("name", "email", "password")
+        fields = ("name", "email", "password", "role")
+        extra_kwargs = {"password": {"write_only": True}}
 
-    def create(self, user):
-        user = User.objects.create_user(email=user["email"], name=user["first_name"])
+    def create(self, validated_data):
+        user = User.objects.create_user(
+            email=validated_data["email"],
+            name=validated_data["name"],
+            password=validated_data["password"]
+        )
+        user.role = validated_data.get("role", "Explorer")
+        user.save()
         return user
 
 
@@ -38,6 +44,7 @@ class LogoutSerializer(serializers.Serializer):
 class GoogleLoginSerializer(serializers.Serializer):
     id_token = serializers.CharField()
     client_id = serializers.CharField()
+    role = serializers.CharField(required=False)
 
 
 class LoginSerializer(serializers.Serializer):
@@ -47,12 +54,6 @@ class LoginSerializer(serializers.Serializer):
 
 # INFO: Chat Serializers
 # =======================
-class PaperSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = ResearchPaper
-        fields = ["id", "title", "link"]
-
-
 class ImageSerializer(serializers.ModelSerializer):
     secure_link = serializers.SerializerMethodField()
 
@@ -61,7 +62,32 @@ class ImageSerializer(serializers.ModelSerializer):
         fields = ["id", "description", "pmcid", "secure_link"]
 
     def get_secure_link(self, obj):
-        return obj.get_secure_link()
+        link = obj.get_secure_link()
+        request = self.context.get("request")
+        if link and link.startswith("/") and request:
+            return request.build_absolute_uri(link)
+        return link
+
+
+class PaperSerializer(serializers.ModelSerializer):
+    authors = serializers.SlugRelatedField(many=True, read_only=True, slug_field="name")
+    images = ImageSerializer(many=True, read_only=True)
+    relevant_chunks = serializers.SerializerMethodField()
+    pmcid = serializers.SerializerMethodField()
+
+    class Meta:
+        model = ResearchPaper
+        fields = ["id", "title", "link", "authors", "abstract", "images", "relevant_chunks", "pmcid"]
+
+    def get_pmcid(self, obj):
+        import re
+        match = re.search(r"(PMC\d+)", obj.link or "")
+        return match.group(1) if match else None
+
+    def get_relevant_chunks(self, obj):
+        # Return first few chunks as context for history viewing
+        chunks = obj.chunks.all().order_by("chunk_index")[:3]
+        return [{"section": c.section_title or "General", "text": c.text_content} for c in chunks]
 
 
 class AuthorSerializer(serializers.ModelSerializer):
@@ -89,6 +115,7 @@ class ChatMessageSerializer(serializers.ModelSerializer):
         model = ChatMessage
         fields = [
             "id",
+            "session",
             "role",
             "content",
             "meta_summary",

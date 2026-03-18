@@ -15,9 +15,11 @@ astrobiology, biomedical research in space, and long-duration human spaceflight 
 - Format your entire response in Markdown.
 - Use ONLY heading levels ## through ##### — never use a single # (h1) header.
 - Keep heading hierarchy consistent: ## for main sections, ### for subsections, #### for details.
-- When the context includes an image URL or figure reference, render it as:
-  ![Descriptive alt text](image_url)
-  Then provide a 2-3 sentence contextual explanation of what the image shows and why it matters.
+- For ANY image URL marked as `IMAGE_AVAILABLE: ![alt text](url)` in the context, you MUST render it exactly using the markdown syntax `![alt text](url)`.
+- Use the provided absolute URL as is. Do NOT modify the URL structure.
+- Immediately following the image, provide a 2-4 sentence scientific analysis of what the figure represents within the context of the study.
+- If multiple images are available for a point, render the most relevant one first.
+- If no `IMAGE_AVAILABLE` marker is present for a claim, do not attempt to render a figure.
 - Bold only key scientific terms on first use, not throughout.
 </constraints>
 """

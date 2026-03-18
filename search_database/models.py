@@ -25,8 +25,16 @@ class ImageNodes(models.Model):
     description = models.TextField(blank=True, null=True)
 
     def get_secure_link(self):
-        token = signing.dumps({"img_id": self.id})
-        return reverse("secure_image", kwargs={"token": token})
+        # Prefer the secure proxy for internal files (to solve Docker Loopback/CORS issues)
+        if self.image_file:
+            token = signing.dumps({"img_id": self.id})
+            return reverse("secure_image", kwargs={"token": token})
+        
+        # If it's an external link, return it directly instead of redirecting through Django
+        if self.link and self.link != "Link":
+            return self.link
+
+        return None
 
     def __str__(self) -> str:
         return f"{self.description[:20]} ..."

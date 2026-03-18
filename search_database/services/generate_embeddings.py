@@ -1,26 +1,32 @@
-from langchain_ollama import OllamaEmbeddings
+from search_database.utils.llm_factory import get_embedder
 import os
 import logging
 
-ollama_url = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
-embedder = OllamaEmbeddings(model="mxbai-embed-large:latest", base_url=ollama_url)
-
-
 logger = logging.getLogger(__name__)
-
-
 
 def get_embeddings(text_chunk: str) -> list[float]:
     """
     Sends the text to the background Ollama daemon and returns the 1024d vector.
     """
-    logger.info("generating embeddings")
-    return embedder.embed_query(text_chunk)
+    try:
+        embedder = get_embedder()
+        logger.info("generating embeddings")
+        result = embedder.embed_query(text_chunk)
+        return result if isinstance(result, list) else []
+    except Exception as e:
+        logger.error(f"Failed to generate embedding: {e}")
+        return []
 
 
-def get_batch_embeddings(text_chunks: str) -> list[list[float]]:
+def get_batch_embeddings(text_chunks: list[str]) -> list[list[float]]:
     """
     Sends a list of text chunks to Ollama in parallel for bulk embedding generation
     """
-    logger.info("generating embeddings in batch")
-    return embedder.embed_documents(text_chunks)
+    try:
+        embedder = get_embedder()
+        logger.info("generating embeddings in batch")
+        result = embedder.embed_documents(text_chunks)
+        return result if isinstance(result, list) else []
+    except Exception as e:
+        logger.error(f"Failed to generate batch embeddings: {e}")
+        return []

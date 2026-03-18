@@ -1,9 +1,10 @@
 import logging
+import os
 from typing import List
 from pydantic import BaseModel, Field
-from langchain_google_genai import ChatGoogleGenerativeAI
 from django.conf import settings
 from langchain_core.prompts import PromptTemplate
+from search_database.utils.llm_factory import get_llm
 
 logger = logging.getLogger(__name__)
 
@@ -21,35 +22,44 @@ class GraphData(BaseModel):
     nodes: List[Node] = Field(description="List of entities extracted from text.")
     edges: List[Edge] = Field(description="List of relationships between those entities.")
 
+from langchain_core.output_parsers import JsonOutputParser
+from langchain_core.prompts import PromptTemplate
+
 def generate_graph_from_text(text: str) -> dict:
     if not text or len(text.strip()) == 0:
         return {"nodes": [], "edges": []}
         
     try:
-        # gemini-1.5-flash is extremely fast and heavily optimized for structured output tasks.
-        llm = ChatGoogleGenerativeAI(
-            model="gemini-1.5-flash", 
-            api_key=settings.GEMINI_API_KEY,
-            temperature=0, # Deterministic, factual extraction
+        llm = get_llm()
+        parser = JsonOutputParser(pydantic_object=GraphData)
+
+        prompt = PromptTemplate(
+            template="You are a scientific data extractor. Convert the following research summary into a knowledge graph.\n"
+                     "{format_instructions}\n"
+                     "Rules:\n"
+                     "1. Extract nodes for: Paper, Gene, Author, Environment, Concept.\n"
+                     "2. Nodes MUST be objects with 'id', 'label', and 'type'.\n"
+                     "3. Edges MUST be objects with 'source', 'target', and 'relation'.\n"
+                     "4. Use underscores for IDs (e.g. 'muscle_atrophy').\n\n"
+                     "Text:\n{text}\n",
+            input_variables=["text"],
+            partial_variables={"format_instructions": parser.get_format_instructions()},
         )
         
-        structured_llm = llm.with_structured_output(GraphData)
+        chain = prompt | llm | parser
         
-        prompt = PromptTemplate.from_template(
-            "You are an expert data extractor converting scientific text into a precise knowledge graph.\n"
-            "Analyze the following text and extract all entities (nodes) and their relationships (edges).\n"
-            "Ensure the graph captures the core relationships mentioned in the text accurately.\n\n"
-            "Text to analyze:\n{text}\n"
-        )
+        graph_data = chain.invoke({"text": text})
         
-        chain = prompt | structured_llm
-        
-        result = chain.invoke({"text": text})
-        
-        if result:
-            return result.model_dump()
+        if graph_data:
+            nodes = graph_data.get("nodes", [])
+            edges = graph_data.get("edges", [])
+            return {
+                "nodes": nodes if isinstance(nodes, list) else [],
+                "edges": edges if isinstance(edges, list) else []
+            }
         return {"nodes": [], "edges": []}
         
     except Exception as e:
         logger.error(f"Failed to generate graph from text: {e}")
+        # Return whatever we got if it's partially valid or empty
         return {"nodes": [], "edges": [], "error": str(e)}

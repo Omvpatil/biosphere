@@ -58,7 +58,8 @@ class ImageContextSerializer(serializers.Serializer):
 
 
 class PaperContextSerializer(serializers.Serializer):
-    paper_id = serializers.IntegerField()
+    id = serializers.IntegerField()
+    paper_id = serializers.CharField()
     title = serializers.CharField()
     abstract = serializers.CharField(allow_blank=True)
     images = ImageContextSerializer(many=True)

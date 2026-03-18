@@ -17,10 +17,13 @@ Including another URLconf
 
 from django.contrib import admin
 from django.urls import path, include
+from biosphere.views import GooglLoginAPIView
 
 urlpatterns = [
     path("admin/", admin.site.urls),
     path("search/", include("search_database.urls")),
     path("graph/", include("graph_database.urls")),
     path("biosphere/", include("biosphere.urls")),
+    # Matching the GCP Callback URI exactly
+    path("api/auth/google/callback/", GooglLoginAPIView.as_view(), name="google-callback-gcp"),
 ]

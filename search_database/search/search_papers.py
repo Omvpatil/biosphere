@@ -45,7 +45,7 @@ def facet_search_postgres(hard_filters: dict):
 def bm25_search_chunks(
     bm25_query: str,
     filtered_papers,
-    top_k: int = 10,
+    top_k: int = 5,
 ) -> list[dict]:
     """
     BM25-like FTS on DocumentChunks, scoped to papers from faceted filter.
@@ -99,7 +99,7 @@ def bm25_search_chunks(
 def semantic_search_postgres(
     filtered_papers,
     semantic_query: str,  # ← now uses extracted["semantic_query"]
-    top_k: int = 10,
+    top_k: int = 5,
 ) -> list[dict]:
     """
     Semantic search on DocumentChunks scoped to facet-filtered papers.
@@ -167,9 +167,10 @@ def rerank_chunks(user_query: str, chunks: list[dict], top_k: int = 5) -> list[d
     """
     if not chunks:
         return []
-        
+
     try:
         from sentence_transformers import CrossEncoder
+
         # Use a lightweight, fast, and highly accurate cross-encoder
         reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
     except ImportError:
@@ -182,26 +183,28 @@ def rerank_chunks(user_query: str, chunks: list[dict], top_k: int = 5) -> list[d
     # Deduplicate chunks based on chunk ID (to prevent scoring the same chunk twice if found by both BM25 and Semantic)
     unique_chunks_map = {chunk["id"]: chunk for chunk in chunks}
     unique_chunks = list(unique_chunks_map.values())
-    
+
     # Prepare inputs for the cross-encoder: pairs of [Query, Chunk Text]
-    cross_input = [[user_query, chunk.get("text_content", "")] for chunk in unique_chunks]
-    
+    cross_input = [
+        [user_query, chunk.get("text_content", "")] for chunk in unique_chunks
+    ]
+
     try:
         # Predict relevance scores (higher is better)
         scores = reranker.predict(cross_input)
-        
+
         for i, chunk in enumerate(unique_chunks):
             chunk["rerank_score"] = float(scores[i])
-            
+
         # Sort by higher score
-        ranked_chunks = sorted(unique_chunks, key=lambda x: x["rerank_score"], reverse=True)
+        ranked_chunks = sorted(
+            unique_chunks, key=lambda x: x["rerank_score"], reverse=True
+        )
         return ranked_chunks[:top_k]
-        
+
     except Exception as e:
         logger.error(f"Reranking prediction failed: {e}")
         return unique_chunks[:top_k]
-
-
 
 
 def query_graph_with_facets(hard_filters: dict, enrichment_terms: dict):

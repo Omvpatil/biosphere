@@ -1,13 +1,9 @@
-from langchain_ollama.chat_models import ChatOllama
 from langchain_core.prompts import PromptTemplate
+from search_database.utils.llm_factory import get_fast_rewriter
 import os
 import logging
 
 logger = logging.getLogger(__name__)
-
-ollama_url = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
-fast_rewriter = ChatOllama(model="qwen2.5:0.5b", temperature=0, base_url=ollama_url)
-
 
 rewrite_prompt = PromptTemplate.from_template("""
 You are a strict text-cleaning engine. Your ONLY job is to remove conversational prefixes from a sentence which is mostly about space-biology.
@@ -33,17 +29,18 @@ Output: the effects of cosmic radiation on the brain.
 User: {user_query}
 Output:""")
 
-rewrite_chain = rewrite_prompt | fast_rewriter
-
-
 def optimize_semantic_query(user_query: str) -> str:
     """
     Sends the raw query to a tiny local SLM to strip conversational boilerplate
     in milliseconds.
     """
     try:
+        fast_rewriter = get_fast_rewriter()
+        rewrite_chain = rewrite_prompt | fast_rewriter
         response = rewrite_chain.invoke({"user_query": user_query})
-        return response.content.strip()
+        # Handle both string and dict responses
+        content = response.content if hasattr(response, 'content') else str(response)
+        return content.strip() if isinstance(content, str) else user_query
     except Exception as e:
         logger.error(f"Failed to rewrite query: {e}")
         return user_query
