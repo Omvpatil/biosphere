@@ -248,3 +248,10 @@ def query_graph_with_facets(hard_filters: dict, enrichment_terms: dict):
                 )
 
     return "\n".join(context_segments)
+
+
+def query_web(query: str):
+    """
+    Search thorugh web using duckduck go or serXCH or other searching for fact checking the current resutls
+    """
+    pass
